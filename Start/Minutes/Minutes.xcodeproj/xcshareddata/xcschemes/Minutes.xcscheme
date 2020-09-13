@@ -37,6 +37,16 @@
          </BuildableReference>
       </MacroExpansion>
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D2F74375250E4E1D004C68FD"
+               BuildableName = "MinutesTestz.xctest"
+               BlueprintName = "MinutesTestz"
+               ReferencedContainer = "container:Minutes.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction
