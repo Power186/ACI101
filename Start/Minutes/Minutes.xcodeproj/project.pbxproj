@@ -71,6 +71,13 @@
 			path = MinutesTestz;
 			sourceTree = "<group>";
 		};
+		D2F74386250E558B004C68FD /* App Center */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "App Center";
+			sourceTree = "<group>";
+		};
 		D3048F1B202E2B2D00D45D7E = {
 			isa = PBXGroup;
 			children = (
@@ -92,6 +99,7 @@
 		D3048F26202E2B2D00D45D7E /* Minutes */ = {
 			isa = PBXGroup;
 			children = (
+				D2F74386250E558B004C68FD /* App Center */,
 				D3048F27202E2B2D00D45D7E /* AppDelegate.swift */,
 				D3048F2B202E2B2D00D45D7E /* Main.storyboard */,
 				D3048F2E202E2B2D00D45D7E /* Assets.xcassets */,
